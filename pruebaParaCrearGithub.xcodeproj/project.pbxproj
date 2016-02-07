@@ -47,6 +47,7 @@
 		522A52521C67CD59002A86E9 /* pruebaParaCrearGithubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pruebaParaCrearGithubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		522A52561C67CD59002A86E9 /* pruebaParaCrearGithubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebaParaCrearGithubUITests.swift; sourceTree = "<group>"; };
 		522A52581C67CD59002A86E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		522A52641C67D1E3002A86E9 /* MIni reto evaluar rango tarea 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "MIni reto evaluar rango tarea 2.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 				522A524A1C67CD59002A86E9 /* pruebaParaCrearGithubTests */,
 				522A52551C67CD59002A86E9 /* pruebaParaCrearGithubUITests */,
 				522A52341C67CD59002A86E9 /* Products */,
+				522A52641C67D1E3002A86E9 /* MIni reto evaluar rango tarea 2.playground */,
 			);
 			sourceTree = "<group>";
 		};
