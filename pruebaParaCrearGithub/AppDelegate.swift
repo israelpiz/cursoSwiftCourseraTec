@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
 //  pruebaParaCrearGithub
-//
-//  Created by israelpiz on 07/02/16.
+//  pureba para ver modificación en github
+//  Created by israelpiz on 07/02/16. 
 //  Copyright © 2016 pizzapps. All rights reserved.
 //
 
